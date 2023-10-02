@@ -12,7 +12,7 @@ Install the dependencies and run the API locally to get started:
 
 ```
 pip install -r requirements.txt
-uvicorn backend:app --reloa
+uvicorn backend:app --reload
 ```
 
 Replace the placeholder API keys with your own keys. You can then make a POST request to one of the three endpoints `("/learn", "/discover", "/explore")`, passing the topic in the request body:
