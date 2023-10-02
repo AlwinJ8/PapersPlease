@@ -1,0 +1,302 @@
+[
+    {
+        "topic": "Deep learning",
+        "resources": [
+            {
+                "title": "Practical Deep Learning for Coders, v3",
+                "link": "https://course19.fast.ai/index.html",
+                "date": "2021-05-09"
+            },
+            {
+                "title": null,
+                "link": "https://course17.fast.ai/start.html",
+                "date": "2016-01-01"
+            },
+            {
+                "title": "GitHub - datascienceid/deep-learning-resources: A curated list of deep learning resources books, courses, papers, libraries, conferences, sample code, and many more.",
+                "link": "https://github.com/datascienceid/deep-learning-resources",
+                "date": "2023-01-01"
+            },
+            {
+                "title": "Deep Learning Home - Deep Learning University",
+                "link": "https://deeplearninguniversity.com/dl/home/",
+                "date": "2020-01-15"
+            },
+            {
+                "title": "GitHub - mahfujur1/Awesome-Resources-of-Deep-Learning",
+                "link": "https://github.com/mahfujur1/Awesome-Resources-of-Deep-Learning",
+                "date": "2023-01-01"
+            }
+        ]
+    },
+    {
+        "topic": "Convolutional neural networks",
+        "resources": [
+            {
+                "title": "CS231n Convolutional Neural Networks for Visual Recognition",
+                "link": "https://cs231n.github.io/",
+                "date": "2022-01-01"
+            },
+            {
+                "title": null,
+                "link": "https://cs231n.github.io/convolutional-networks/",
+                "date": "2016-02-04"
+            },
+            {
+                "title": "CS231n: Deep Learning for Computer Vision",
+                "link": "http://cs231n.stanford.edu/",
+                "date": "2015-01-01"
+            },
+            {
+                "title": "CS231n: Convolutional Neural Networks for Visual Recognition",
+                "link": "http://cs231n.stanford.edu/2016/",
+                "date": "2014-08-18"
+            },
+            {
+                "title": "CS231n: Convolutional Neural Networks for Visual Recognition",
+                "link": "http://cs231n.stanford.edu/2015/index.html",
+                "date": "2014-08-18"
+            }
+        ]
+    },
+    {
+        "topic": "Knowledge transfer",
+        "resources": [
+            {
+                "title": "Free Professional Development – Retrieval Practice",
+                "link": "https://www.retrievalpractice.org/pd-free",
+                "date": "2023-01-01"
+            },
+            {
+                "title": "Learning patterns - Meta",
+                "link": "https://meta.m.wikimedia.org/wiki/Grants:Learning_patterns",
+                "date": "2022-11-09"
+            },
+            {
+                "title": "Life Science Teaching Resource Community",
+                "link": "https://www.lifescitrc.org/",
+                "date": "2023-01-01"
+            },
+            {
+                "title": "Articles & Resources | edX Online Campus",
+                "link": "https://campus.edx.org/resources",
+                "date": "2022-01-01"
+            },
+            {
+                "title": "Research on the Science of Learning – Retrieval Practice",
+                "link": "https://www.retrievalpractice.org/research",
+                "date": "2023-01-01"
+            }
+        ]
+    },
+    {
+        "topic": "Model compression",
+        "resources": [
+            {
+                "title": "GitHub - ChanChiChoi/awesome-model-compression: papers about model compression",
+                "link": "https://github.com/ChanChiChoi/awesome-model-compression",
+                "date": "2019-11-08"
+            },
+            {
+                "title": "GitHub - chester256/Model-Compression-Papers: Papers for deep neural network compression and acceleration",
+                "link": "https://github.com/chester256/Model-Compression-Papers",
+                "date": "2021-06-21"
+            },
+            {
+                "title": "GitHub - manjunath5496/Model-Compression-Paper-List: \"Avoidable human misery is more often caused not so much by stupidity as by ignorance, particularly our ignorance about ourselves.\"― Carl Sagan",
+                "link": "https://github.com/manjunath5496/Model-Compression-Paper-List",
+                "date": "2023-01-01"
+            },
+            {
+                "title": "Learn how to make BERT smaller and faster",
+                "link": "https://rasa.com/blog/compressing-bert-for-faster-prediction-2/",
+                "date": "2021-08-19"
+            },
+            {
+                "title": "A Crash Course on Model Compression for Data Scientists | Prolego",
+                "link": "https://www.prolego.com/blog/a-crash-course-on-model-compression-for-data-scientists",
+                "date": "2022-02-05"
+            }
+        ]
+    },
+    {
+        "topic": "Teacher-student framework",
+        "resources": [
+            {
+                "title": "The Framework For Teaching - Danielson Group",
+                "link": "https://danielsongroup.org/framework/",
+                "date": "2021-10-13"
+            },
+            {
+                "title": "Design Principles",
+                "link": "https://k12.designprinciples.org/",
+                "date": "2023-01-01"
+            },
+            {
+                "title": "Resources - Danielson Group",
+                "link": "https://danielsongroup.org/resources/",
+                "date": "2021-12-10"
+            },
+            {
+                "title": "Resources",
+                "link": "https://www.greatteaching.com/resources",
+                "date": "2020-01-01"
+            },
+            {
+                "title": "Resources to Support Scotland’s Curriculum Framework",
+                "link": "https://education.gov.scot/improvement/learning-resources/resources-to-support-scotland-s-curriculum-framework/",
+                "date": "2023-02-03"
+            }
+        ]
+    },
+    {
+        "topic": "Loss functions",
+        "resources": [
+            {
+                "title": "Choosing a loss function",
+                "link": "https://end-to-end-machine-learning.teachable.com/courses/building-blocks-choosing-a-model/lectures/9414328",
+                "date": null
+            },
+            {
+                "title": "Dataflowr",
+                "link": "https://dataflowr.github.io/website/modules/3-loss-functions-for-classification/",
+                "date": "2023-01-18"
+            },
+            {
+                "title": "Descending into ML: Training and Loss | Machine Learning | Google Developers",
+                "link": "https://developers.google.com/machine-learning/crash-course/descending-into-ml/training-and-loss#:~:text=Training%20a%20model%20simply%20means,is%20called%20empirical%20risk%20minimization",
+                "date": "2022-07-18"
+            },
+            {
+                "title": "Interpreting Loss Curves | Machine Learning | Google Developers",
+                "link": "https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic",
+                "date": "2022-07-18"
+            },
+            {
+                "title": "Dataflowr",
+                "link": "https://dataflowr.github.io/website/",
+                "date": "2023-01-18"
+            }
+        ]
+    },
+    {
+        "topic": "Distillation techniques",
+        "resources": [
+            {
+                "title": "Distillation I: Simple & Fractional Distillations | Digital Lab Techniques Manual | Supplemental Resources | MIT OpenCourseWare",
+                "link": "https://ocw.mit.edu/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/distillation-i-simple-fractional-distillations/",
+                "date": "2007-01-01"
+            },
+            {
+                "title": "Please Enable Cookies",
+                "link": "https://stilldragon.com/blog/category/learning-to-distill",
+                "date": "2023-01-01"
+            },
+            {
+                "title": "Distillation (video) | Khan Academy",
+                "link": "https://www.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/x822131fc:separating-mixtures-and-solutions/v/distillation",
+                "date": "2020-10-26"
+            },
+            {
+                "title": "5: Distillation",
+                "link": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/05%3A_Distillation",
+                "date": "2017-10-05"
+            },
+            {
+                "title": "Simple Distillation",
+                "link": "https://www.jove.com/science-education/11201/simple-distillation",
+                "date": "1996-09-02"
+            }
+        ]
+    },
+    {
+        "topic": "Data augmentation",
+        "resources": [
+            {
+                "title": "GitHub - AgaMiko/data-augmentation-review: List of useful data augmentation resources. You will find here some not common techniques, libraries, links to GitHub repos, papers, and others.",
+                "link": "https://github.com/AgaMiko/data-augmentation-review",
+                "date": "2022-05-22"
+            },
+            {
+                "title": "GitHub - CrazyVertigo/awesome-data-augmentation: This is a list of awesome methods about data augmentation.",
+                "link": "https://github.com/CrazyVertigo/awesome-data-augmentation",
+                "date": "2021-03-13"
+            },
+            {
+                "title": "Complete Guide to Data Augmentation for Computer Vision",
+                "link": "https://towardsdatascience.com/complete-guide-to-data-augmentation-for-computer-vision-1abe4063ad07?gi=e9846067a212",
+                "date": "2021-08-19"
+            },
+            {
+                "title": "A Complete Guide to Data Augmentation",
+                "link": "https://www.datacamp.com/tutorial/complete-guide-data-augmentation",
+                "date": "2022-11-23"
+            },
+            {
+                "title": "Automating Data Augmentation: Practice, Theory and New Direction",
+                "link": "https://ai.stanford.edu/blog/data-augmentation/",
+                "date": "2020-04-24"
+            }
+        ]
+    },
+    {
+        "topic": "Transfer learning",
+        "resources": [
+            {
+                "title": null,
+                "link": "https://cs231n.github.io/transfer-learning/",
+                "date": "2013-01-01"
+            },
+            {
+                "title": "Transfer Learning - Coursera",
+                "link": "https://www.coursera.org/lecture/convolutional-neural-networks/transfer-learning-4THzO",
+                "date": "2017-10-31"
+            },
+            {
+                "title": "Transfer learning and fine-tuning | TensorFlow Core",
+                "link": "https://www.tensorflow.org/tutorials/images/transfer_learning",
+                "date": "2022-12-15"
+            },
+            {
+                "title": "Transfer Learning",
+                "link": "https://www.youtube.com/watch?v=_2EHcpg52uU",
+                "date": "2018-02-27"
+            },
+            {
+                "title": "Transfer Learning | Kaggle",
+                "link": "https://www.youtube.com/watch?v=mPFq5KMxKVw&feature=youtu.be",
+                "date": "2018-04-06"
+            }
+        ]
+    },
+    {
+        "topic": "Regularization methods",
+        "resources": [
+            {
+                "title": "INTRODUCTION TO REGULARIZATION",
+                "link": "https://home.work.caltech.edu/library/121.html",
+                "date": null
+            },
+            {
+                "title": "REGULARIZATION PARAMETER",
+                "link": "https://home.work.caltech.edu/library/126.html",
+                "date": null
+            },
+            {
+                "title": null,
+                "link": "https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO",
+                "date": "2023-02-01"
+            },
+            {
+                "title": "Regularization Methods for Machine Learning",
+                "link": "http://lcsl.mit.edu/courses/master/RegML/material.html",
+                "date": "2016-01-01"
+            },
+            {
+                "title": "Lecture 7.2 — Regularization | Cost Function — [ Machine Learning | Andrew Ng | Stanford University]",
+                "link": "https://www.youtube.com/watch?v=KvtGD37Rm5I",
+                "date": "2016-12-31"
+            }
+        ]
+    }
+]

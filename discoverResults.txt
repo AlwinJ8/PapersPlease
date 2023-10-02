@@ -1,0 +1,132 @@
+[
+    {
+        "topic": "Enhancing Knowledge Distillation with Generative Adversarial Networks",
+        "resources": [
+            {
+                "title": "Paper page - GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models",
+                "link": "https://huggingface.co/papers/2306.13649",
+                "date": "2023-06-26",
+                "author": "Rishabh Agarwal",
+                "abstract summary": "This paper introduces Generalized Knowledge Distillation (GKD), a method for compressing neural networks and addressing issues with current distillation methods for auto-regressive models. GKD mitigates distribution mismatch and model under-specification, outperforming commonly-used approaches on various tasks."
+            },
+            {
+                "title": "AI-KD: Adversarial learning and Implicit regularization for self-Knowledge Distillation",
+                "link": "https://arxiv.org/abs/2211.10938",
+                "date": "2022-11-20",
+                "author": "Kim; Hyungmin; Suh; Sungho; Baek; Sunghyun; Daehwan; Jeong; Daun; Cho; Hansang; Junmo",
+                "abstract summary": "The paper presents a novel method called AI-KD that utilizes adversarial learning and implicit distillations for self-knowledge distillation. By regularizing the training procedure and aligning predictive distributions, the proposed method achieves better performance compared to state-of-the-art methods on multiple datasets."
+            },
+            {
+                "title": "GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models",
+                "link": "https://arxiv.org/abs/2306.13649v1",
+                "date": "2023-06-23",
+                "author": "Agarwal; Rishabh; Vieillard; Nino; Stanczyk; Piotr; Ramos; Sabela; Geist; Matthieu; Bachem; Olivier",
+                "abstract summary": "This paper introduces Generalized Knowledge Distillation (GKD), a method for compressing neural networks that addresses the issues of distribution mismatch and model under-specification in auto-regressive models. GKD improves performance in tasks like summarization, machine translation, and arithmetic reasoning by sampling output sequences from the student model during training and optimizing alternative divergences to generate samples likely under the teacher's distribution."
+            }
+        ]
+    },
+    {
+        "topic": "Exploring the Impact of Different Loss Functions on Knowledge Distillation",
+        "resources": [
+            {
+                "title": "A closer look at the training dynamics of knowledge distillation",
+                "link": "https://arxiv.org/abs/2303.11098v2",
+                "date": "2023-03-20",
+                "author": "Miles; Roy; Mikolajczyk; Krystian",
+                "abstract summary": "This paper explores the effectiveness of knowledge distillation in the context of function matching and metric learning. It investigates the impact of normalization, soft maximum functions, and projection layers, demonstrating superior or comparable performance to state-of-the-art techniques while being more computationally efficient."
+            },
+            {
+                "title": "On student-teacher deviations in distillation: does it pay to disobey?",
+                "link": "https://arxiv.org/abs/2301.12923",
+                "date": "2023-01-30",
+                "author": "Nagarajan; Vaishnavh; Menon; Aditya Krishna; Bhojanapalli; Srinadh; Mobahi; Hossein; Kumar; Sanjiv",
+                "abstract summary": "This paper investigates the nature of deviations between \"student\" and \"teacher\" networks in knowledge distillation and their relationship to gains in generalization. The authors observe that the student network achieves even lower confidence than the teacher on points where the teacher has low confidence, and they propose theoretical perspectives to understand the role of student-teacher deviations in the training process."
+            },
+            {
+                "title": "Understanding and Improving Knowledge Distillation for Quantization-Aware Training of Large Transformer Encoders",
+                "link": "https://arxiv.org/abs/2211.11014",
+                "date": "2022-11-20",
+                "author": "Kim; Minsoo; Lee; Sihwa; Hong; Sukjin; Chang; Du-Seong; Choi; Jungwook",
+                "abstract summary": "The paper discusses knowledge distillation (KD) in the context of quantization-aware training (QAT) for Transformer encoders like BERT. It proposes two KD methods, attention-map and attention-output losses, and demonstrates their effectiveness in achieving state-of-the-art accuracy for QAT with sub-2-bit weight quantization."
+            }
+        ]
+    },
+    {
+        "topic": "Investigating the Role of Teacher Network Architecture in Knowledge Distillation",
+        "resources": [
+            {
+                "title": "On student-teacher deviations in distillation: does it pay to disobey?",
+                "link": "https://arxiv.org/abs/2301.12923v1",
+                "date": "2023-01-30",
+                "author": "Nagarajan; Vaishnavh; Menon; Aditya Krishna; Bhojanapalli; Srinadh; Mobahi; Hossein; Kumar; Sanjiv",
+                "abstract summary": "This paper investigates the nature of deviations between a student and teacher network during knowledge distillation and their impact on generalization. The authors observe that the student network achieves even lower confidence than the teacher on points where the teacher has low confidence, and switching to distillation loss during training can recover a significant portion of its gains."
+            },
+            {
+                "title": "A closer look at the training dynamics of knowledge distillation",
+                "link": "https://arxiv.org/abs/2303.11098v2",
+                "date": "2023-03-20",
+                "author": "Miles; Roy; Mikolajczyk; Krystian",
+                "abstract summary": "This paper examines the effectiveness of knowledge distillation in function matching and metric learning. The authors highlight important design decisions related to normalization, soft maximum function, and projection layers, and demonstrate through theoretical analysis and experimental results that these insights can lead to improved performance compared to existing techniques."
+            },
+            {
+                "title": "Improving Knowledge Distillation Via Transferring Learning Ability",
+                "link": "https://arxiv.org/abs/2304.11923v1",
+                "date": "2023-04-24",
+                "author": "Liu; Long; Li; Tong; Cheng; Hui",
+                "abstract summary": "The paper introduces a new method called SLKD for knowledge distillation that addresses the capacity-gap problem in existing distillation approaches. It highlights the limitations of the teacher-student approach, where the student network learns solely from a well-trained teacher, and proposes a novel solution to overcome this issue."
+            }
+        ]
+    },
+    {
+        "topic": "Applying Reinforcement Learning Techniques to Optimize Knowledge Distillation",
+        "resources": [
+            {
+                "title": "A closer look at the training dynamics of knowledge distillation",
+                "link": "https://arxiv.org/abs/2303.11098v2",
+                "date": "2023-03-20",
+                "author": "Miles; Roy; Mikolajczyk; Krystian",
+                "abstract summary": "This paper examines the effectiveness of knowledge distillation and explores the impact of normalization, soft maximum function, and projection layers. The experimental results demonstrate that utilizing these insights can lead to superior performance compared to state-of-the-art techniques, across various tasks such as image classification and object detection."
+            },
+            {
+                "title": "A closer look at the training dynamics of knowledge distillation",
+                "link": "https://arxiv.org/abs/2303.11098v1",
+                "date": "2023-03-20",
+                "author": "Miles; Roy; Mikolajczyk; Krystian",
+                "abstract summary": "This paper explores the efficacy of knowledge distillation for function matching and metric learning. The authors examine the impact of normalisation, soft maximum function, and projection layers on the student's performance, demonstrating superior or comparable results to state-of-the-art techniques across various benchmarks."
+            },
+            {
+                "title": "Continuation KD: Improved Knowledge Distillation through the Lens of Continuation Optimization",
+                "link": "https://arxiv.org/abs/2212.05998",
+                "date": "2022-12-12",
+                "author": "Jafari; Aref; Kobyzev; Ivan; Rezagholizadeh; Mehdi; Poupart; Pascal; Ghodsi; Ali",
+                "abstract summary": "This paper introduces a new knowledge distillation (KD) method called Continuation-KD, aimed at addressing the limitations of existing KD techniques in natural language understanding (NLU) and computer vision tasks. By optimizing the KD objective using a continuation optimization approach, Continuation-KD achieves state-of-the-art performance on compact architectures for NLU (GLUE benchmark) and CIFAR-10/CIFAR-100 in computer vision tasks."
+            }
+        ]
+    },
+    {
+        "topic": "Analyzing the Robustness of Knowledge Distillation against Adversarial Attacks",
+        "resources": [
+            {
+                "title": "Mitigating the Accuracy-Robustness Trade-off via Multi-Teacher Adversarial Distillation",
+                "link": "https://arxiv.org/abs/2306.16170v1",
+                "date": "2023-06-28",
+                "author": "Zhao; Shiji; Wang; Xizhe; Wei; Xingxing",
+                "abstract summary": "This paper introduces the Multi-Teacher Adversarial Robustness Distillation (MTARD) method, which uses a strong clean teacher and a strong robust teacher to improve the accuracy and robustness of deep neural networks against adversarial attacks. Through experiments on public datasets, MTARD outperforms state-of-the-art adversarial training and distillation methods in defending against various adversarial attacks."
+            },
+            {
+                "title": "Enhancing Adversarial Robustness in Low-Label Regime via Adaptively Weighted Regularization and Knowledge Distillation",
+                "link": "https://arxiv.org/abs/2308.04061",
+                "date": "2023-08-08",
+                "author": "Yang; Dongyoon; Kong; Insung; Kim; Yongdai",
+                "abstract summary": "This paper explores the challenge of adversarial robustness in the context of limited labeled data, introducing a semi-supervised adversarial training algorithm that incorporates knowledge distillation. Experimental results demonstrate that the proposed algorithm achieves state-of-the-art performance, even with a small amount of labeled data, comparable to supervised adversarial training algorithms on CIFAR-10."
+            },
+            {
+                "title": "Faithful Knowledge Distillation",
+                "link": "https://arxiv.org/abs/2306.04431v1",
+                "date": "2023-06-07",
+                "author": "Lamb; Tom A; Brunel; Rudy; Krishnamurthy; Dvijotham; Kumar; M Pawan; Torr; Philip H S; Eiras; Francisco",
+                "abstract summary": "This paper addresses the issue of relative calibration in knowledge distillation, specifically focusing on the disagreement between the teacher and student network and the confidence levels of the distilled student. It introduces a faithful imitation framework and faithful distillation method, and experimental results on MNIST and Fashion-MNIST datasets demonstrate the importance of this analysis and the benefits of faithful distillation over alternative methods."
+            }
+        ]
+    }
+]

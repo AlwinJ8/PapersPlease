@@ -1,0 +1,72 @@
+[
+    {
+        "title": "[1503.02531] Distilling the Knowledge in a Neural Network",
+        "link": "https://arxiv.org/pdf/1503.02531.pdf",
+        "date": null,
+        "author": null,
+        "abstract summary": "This abstract discusses a technique called \"distillation\" which transfers the knowledge acquired by a large ensemble of models into a single small model. The authors demonstrate that this approach can significantly improve the performance of machine learning algorithms and can be used to train specialist models that can distinguish fine-grained classes."
+    },
+    {
+        "title": "[1503.02531v1] Distilling the Knowledge in a Neural Network",
+        "link": "https://arxiv.org/pdf/1503.02531v1.pdf",
+        "date": null,
+        "author": null,
+        "abstract summary": "This abstract discusses the concept of distilling the knowledge from a neural network ensemble into a single model, which can improve performance and ease deployment. It also introduces the use of specialist models to distinguish fine-grained classes. The paper aims to show that distillation can significantly improve the acoustic model of a commercial system and presents surprising results on MNIST dataset."
+    },
+    {
+        "title": "[PDF] Distilling the Knowledge in a Neural Network | Semantic Scholar",
+        "link": "https://www.semanticscholar.org/paper/Distilling-the-Knowledge-in-a-Neural-Network-Hinton-Vinyals/0c908739fbff75f03469d13d4a1a07de3414ee19",
+        "date": "2015-03-09",
+        "author": "Geoffrey E Hinton; Oriol Vinyals; J Dean",
+        "abstract summary": "The first paper discusses a framework for knowledge distillation, where a simpler model learns to mimic a more complex model by observing its behavior. The second paper introduces a model fusion algorithm for neural networks that utilizes optimal transport to align neurons across models and transfer knowledge between networks trained on different types of data."
+    },
+    {
+        "title": "Understanding and Improving Knowledge Distillation",
+        "link": "https://arxiv.org/abs/2002.03532v1",
+        "date": "2020-02-10",
+        "author": "Tang; Jiaxi; Shivanna; Rakesh; Zhao; Zhe; Lin; Dong; Singh; Anima; Chi; Ed H; Jain; Sagar",
+        "abstract summary": "This paper investigates the effects of knowledge distillation in improving the training dynamics of a student model. It identifies three main factors: benefits from label smoothing, example re-weighting based on the teacher's confidence, and prior knowledge of optimal output layer geometry, and proposes a simple yet effective technique to enhance knowledge distillation."
+    },
+    {
+        "title": "Knowledge Distillation from Internal Representations",
+        "link": "https://arxiv.org/abs/1910.03723v1",
+        "date": "2019-10-08",
+        "author": "Aguilar; Gustavo; Ling; Yuan; Zhang; Yu; Yao; Benjamin; Fan; Xing; Guo; Edward",
+        "abstract summary": "This paper introduces a method called knowledge distillation, where the internal representations of a large model like BERT are compressed into a simpler version. The authors propose two ways of distilling these representations and show through experiments that this approach is more effective than traditional soft-label distillation for transfer of knowledge."
+    },
+    {
+        "title": "Knowledge Distillation in Generations: More Tolerant Teachers Educate Better Students",
+        "link": "https://arxiv.org/abs/1805.05551v1",
+        "date": "2018-05-15",
+        "author": "Yang; Chenglin; Xie; Lingxi; Qiao; Siyuan; Yuille; Alan",
+        "abstract summary": "This paper explores teacher-student optimization in neural networks, emphasizing the benefits of a more tolerant teacher in educating better students. They propose a method in which a patriarch network, acting as the first teacher, guides successive generations of students through fine-tuning, resulting in superior performance in image classification tasks."
+    },
+    {
+        "title": "[1511.03643] Unifying distillation and privileged information",
+        "link": "https://arxiv.org/pdf/1511.03643.pdf",
+        "date": null,
+        "author": null,
+        "abstract summary": "This paper introduces the concept of generalized distillation, which combines the techniques of distillation and privileged information to enable machines to learn from multiple machines and data representations. It provides theoretical insights and extends the framework to unsupervised, semi-supervised, and multitask learning scenarios, and demonstrates its effectiveness on various simulations using synthetic and real-world data."
+    },
+    {
+        "title": "A closer look at the training dynamics of knowledge distillation",
+        "link": "https://arxiv.org/abs/2303.11098v2",
+        "date": "2023-03-20",
+        "author": "Miles; Roy; Mikolajczyk; Krystian",
+        "abstract summary": "This paper explores the effectiveness of knowledge distillation for function matching and metric learning, highlighting the importance of normalization, soft maximum function, and projection layers. The authors demonstrate that incorporating these insights leads to comparable or superior performance compared to state-of-the-art techniques, while being more computationally efficient, across various benchmark datasets and complex distillation objectives."
+    },
+    {
+        "title": "Knowledge distillation: A good teacher is patient and consistent",
+        "link": "https://arxiv.org/abs/2106.05237v1",
+        "date": "2021-06-09",
+        "author": "Beyer; Lucas; Zhai; Xiaohua; Royer; Amélie; Markeeva; Larisa; Anil; Rohan; Kolesnikov; Alexander",
+        "abstract summary": "This paper addresses the discrepancy in computer vision between large-scale models that achieve state-of-the-art performance and models that are affordable in practical applications. The authors propose knowledge distillation as a powerful tool for reducing the size of large models without compromising their performance and provide a comprehensive empirical study demonstrating their findings."
+    },
+    {
+        "title": "On the Efficacy of Knowledge Distillation",
+        "link": "https://arxiv.org/abs/1910.01348v1",
+        "date": "2019-10-03",
+        "author": "Cho; Jang Hyun; Hariharan; Bharath",
+        "abstract summary": "This paper evaluates the effectiveness of knowledge distillation in machine learning, particularly examining the impact of teacher and student architectures. The authors demonstrate that larger models do not necessarily make better teachers and propose techniques to overcome the capacity mismatch between teachers and students, with the finding that early stopping of teacher training can mitigate this effect."
+    }
+]
